@@ -1,0 +1,12 @@
+morgan for 2middleware
+ejs-mate for 3design
+joi for validation mongo middleware thing
+cookie-parser,express-session obvious
+connect-flash for flash message on sessions like welcome arya
+EJS Mate is a library that adds layout and partial template functionality to EJS, a templating engine for Node.js. This allows you to create reusable HTML components (partials) and apply layouts (base templates) to multiple views, making your Node.js applications more organized and maintainable. 
+bcrypt for cryptographic hashing passwords in auth, authentication
+passport for authentication into node easily
+multer for parsing multiform data, upload files
+dotenv for .env files etc
+cloudinary multer for image, file upload
+maptiler for map features
